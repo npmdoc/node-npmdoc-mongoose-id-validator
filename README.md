@@ -61,7 +61,8 @@
     "dependencies": {
         "clone": "^1.0.2",
         "traverse": "^0.6.6"
-    }
+    },
+    "bin": {}
 }
 ```
 
